@@ -1,4 +1,4 @@
-# RTFM experiments on the nRF52840-DK
+# ITM experiments on the nRF52840-DK
 
 ## Starting the debugger
 
